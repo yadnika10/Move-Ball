@@ -1,0 +1,14 @@
+body{
+    height: 90vh;
+    background: url('https://image.freepik.com/free-photo/background-old-blue-brick-wall-wallpaper-various-scenes-as-background-video-interviews_73152-4301.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.circle{
+    background: radial-gradient(circle at 100px 100px, #C71585, #000);
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    transition: all 0.3s;
+}
